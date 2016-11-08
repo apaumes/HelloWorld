@@ -1,2 +1,2 @@
 # HelloWorld
-HelloWorld programmi repo
+HelloWorld programmi üleslaadimine. Esimene Java katsetus.
